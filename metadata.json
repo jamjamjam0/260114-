@@ -1,0 +1,7 @@
+{
+  "name": "Cute Poop Dodger (똥피하기)",
+  "description": "A fun and adorable arcade game where you dodge falling poops. Features funny sound effects and Gemini-powered sassy commentary!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
